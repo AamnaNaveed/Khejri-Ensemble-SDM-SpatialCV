@@ -12,9 +12,9 @@ Spatially-validated ensemble species distribution modeling comparing BIOCLIM, GL
 ## Files
 - `report.pdf` — Full manuscript
 - `fig_01_spatial_cv_boxplot.png` — Cross-validation performance
-- `fig_02_model_agreement.png` — Model agreement map
-- `fig_03_uncertainty.png` — Between-algorithm disagreement
-- `fig_04_response_curves.png` — Ecological response curves
+- `fig_01_model_agreement.png` — Model agreement map
+- `fig_02_uncertainty.png` — Between-algorithm disagreement
+- `fig_03_response_curves.png` — Ecological response curves
 - `fig_05_variable_importance.png` — Random Forest variable importance
 - `spatial_cv_results.csv` — Performance statistics
 
