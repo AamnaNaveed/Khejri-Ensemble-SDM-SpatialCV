@@ -1,0 +1,5 @@
+"Algorithm","AUC_Mean","AUC_SD","TSS_Mean","TSS_SD"
+"BIOCLIM",0.738,0.063,0.439,0.075
+"GLM",0.774,0.001,0.488,0.073
+"Random Forest",0.739,0.033,0.465,0.095
+"Equal-Weight Ensemble",0.808,0.016,0.554,0.075
