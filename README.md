@@ -19,7 +19,7 @@ Spatially-validated ensemble species distribution modeling comparing BIOCLIM, GL
 - `spatial_cv_results.csv` — Performance statistics
 
 ## Citation
-Naveed, A. (2026). Ensemble Climate-Suitability Modeling for Prosopis cineraria in Pakistan: Spatial Block Cross-Validation and Conservation Priorities. Zenodo. [DOI after upload]
+Naveed, A. (2026). Ensemble Climate-Suitability Modeling for Prosopis cineraria in Pakistan: Spatial Block Cross-Validation and Conservation Priorities. Zenodo. [https://doi.org/10.5281/zenodo.22247414]
 
 ## Related Work
 - Khejri SDM (BIOCLIM): https://doi.org/10.5281/zenodo.22174696
